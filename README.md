@@ -7,4 +7,4 @@ This Project takes user's Birthday as input and tells if the date is palindrome 
 <li>Javascript</li>
 </ol>
 <h1>Live Link of the Project</h1>
-<a href = "palindrome-birthdayjs.netlify.app">Live Project</a>
+<a href = "https://palindrome-birthdayjs.netlify.app/" target = "_blank">Live Project</a>
